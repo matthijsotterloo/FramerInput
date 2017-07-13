@@ -5,8 +5,8 @@ Framer module to easily turn your designs inputs into real inputs.
 ## How to add it
 
 - Clone or download the repo.
-- Copy `inputscript.coffee` into your projects `modules/` folder.
-- Import it in your project by writing: `textfield = require "input"`.
+- Copy `inputfield.coffee` into your projects `modules/` folder.
+- Import it in your project by writing: `textfield = require "inputfield"`.
 
 ## How to use it
 
